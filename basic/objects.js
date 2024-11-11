@@ -1,6 +1,6 @@
-let ab = {
-    name : "firstName",
-    location : "India",
+let obj = {
+    name : "Shekhar",
+    location : "Pune",
     age: 20
 }
 
